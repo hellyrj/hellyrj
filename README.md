@@ -58,7 +58,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/hellyrj/hellyrj/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/hellyrj/hellyrj/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
