@@ -1,17 +1,21 @@
+
+<!-- Animated typing intro with feminine colors -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E11584&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Helly;3rd+Year+Software+Engineering+Student;Full-Stack+Developer+%7C+Tech+Explorer;Building+Today+%F0%9F%92%96+Innovating+Tomorrow" />
 </p>
 
 ---
 
+<!-- Minimal coding gif banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="450" alt="Girl Coding">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Animation">
 </div>
 
+<!-- Profile summary -->
 <div align="center">
   
-  ### 💕 Software Engineering Student | 👩‍💻 Full-Stack Developer
-  ### 🌸 Exploring: AI • Cybersecurity • Robotics
+  ###  Software Engineering Student | 👩‍💻 Full-Stack Developer
+  ###  Exploring: AI • Cybersecurity • Robotics
   
   <p>
     <a href="https://github.com/hellyrj?tab=repositories">
@@ -38,29 +42,21 @@
 ### 🎀 **Frontend Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" title="HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap" />
-  <br>
-  <small><i>Making the web pretty and functional</i></small>
 </p>
 
 ### 🌺 **Backend & APIs**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" title="Node.js, Express, Python, Flask, FastAPI" />
-  <br>
-  <small><i>Building robust systems behind the scenes</i></small>
 </p>
 
 ### 🍬 **Databases & Storage**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" title="MongoDB, PostgreSQL, MySQL, SQLite, Redis" />
-  <br>
-  <small><i>Organizing data with precision</i></small>
 </p>
 
 ### 🦄 **Dev Tools & Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,nginx,linux" title="Git, GitHub, VS Code, Postman, Docker, AWS, Nginx, Linux" />
-  <br>
-  <small><i>My favorite tech toys & tools</i></small>
 </p>
 
 ---
@@ -68,8 +64,6 @@
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Building Projects">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
@@ -82,10 +76,6 @@
 ---
 
 ## 🌸 **Learning Journey**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width="200" alt="Learning and Growing">
-</div>
 
 ### 💖 **Current Focus (2024)**
 ```yaml
@@ -134,6 +124,16 @@ Database Expertise:
 
 ---
 
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+  ![Helly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellyrj&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=45,ff9a9e,fad0c4&title_color=fff&text_color=fff&icon_color=fff)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyrj&layout=compact&theme=radical&hide_border=true&bg_color=45,ff9a9e,fad0c4&title_color=fff&text_color=fff)
+  
+</div>
+
 ## 🎯 **Coding Activity**
 
 <!-- GitHub Activity Graph -->
@@ -152,18 +152,12 @@ Database Expertise:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hellyrj&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-  <br>
-  <img src="https://media.giphy.com/media/l3vR9tqPxiP8FyPZS/giphy.gif" width="100" alt="Achievements">
 </p>
 
 ---
 
 ## 📚 **Currently Learning**
 
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Learning New Things">
-  
 ```javascript
 const currentLearning = {
   languages: ['TypeScript', 'Go', 'Rust'],
@@ -174,14 +168,10 @@ const currentLearning = {
 };
 ```
 
-</div>
-
 ---
 
 ## ✍️ **Tech Blog & Writing**
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="150" alt="Writing">
   
   <p>
     <a href="#">
@@ -204,8 +194,6 @@ const currentLearning = {
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="180" alt="Girl Power Connection">
-  
   <p>
     <a href="https://www.linkedin.com/in/hilina-hussien-824462288/">
       <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -225,8 +213,6 @@ const currentLearning = {
 ## 💭 **Developer Philosophy**
 
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="200" alt="Philosophy">
   
   > ### ✨ **"Code with creativity, debug with patience, learn with joy"**
   
@@ -259,8 +245,6 @@ const currentLearning = {
   
   ### 💖 **Thanks for visiting my corner of GitHub!**
   
-  <img src="https://media.giphy.com/media/3o6ZsWQe5ZKtCQjtFe/giphy.gif" width="250" alt="Thank You">
-  
   <p>
     <i>Always excited to collaborate, learn together, and build amazing things!</i>
   </p>
@@ -274,3 +258,4 @@ const currentLearning = {
   
 </div>
 ```
+ way while maintaining professional credibility.
