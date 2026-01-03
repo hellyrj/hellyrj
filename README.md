@@ -6,6 +6,11 @@
 
 ---
 
+<!-- Animated coding gif banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</div>
+
 <!-- Profile summary with badges -->
 <div align="center">
   
@@ -59,6 +64,8 @@
 ## 🚀 **Featured Projects**
 
 <div align="center">
+  
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="300" alt="Project Development">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
@@ -89,6 +96,9 @@ Database Expertise:
 
 ### 🔮 **Future Exploration Path**
 <div align="center">
+  
+  <img src="https://media.giphy.com/media/l44QzsOLXxcrigdgI/giphy.gif" width="200" alt="Future Tech">
+  
   <table>
     <tr>
       <td align="center" width="150">
@@ -126,11 +136,9 @@ Database Expertise:
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyrj&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=hellyrj&theme=tokyonight&hide_border=true&background=00000000)
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Stats">
   
 </div>
-
----
 
 ## 🎯 **Coding Activity**
 
@@ -150,12 +158,18 @@ Database Expertise:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hellyrj&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  <br>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" alt="Trophy">
 </p>
 
 ---
 
 ## 📚 **Currently Learning**
 
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Learning">
+  
 ```javascript
 const currentLearning = {
   languages: ['TypeScript', 'Go', 'Rust'],
@@ -165,6 +179,8 @@ const currentLearning = {
   concepts: ['Design Patterns', 'System Architecture', 'Cloud Native']
 };
 ```
+
+</div>
 
 ---
 
@@ -181,32 +197,41 @@ const currentLearning = {
   </a>
 </p>
 
-*Coming soon: Technical articles on full-stack development, system design, and emerging tech.*
+<div align="center">
+  <img src="https://media.giphy.com/media/j3gKR3BQHZPvZfhpQk/giphy.gif" width="150" alt="Writing">
+  <br>
+  <em>Coming soon: Technical articles on full-stack development, system design, and emerging tech.</em>
+</div>
 
 ---
 
 ## 🤝 **Let's Connect!**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://leetcode.com/yourprofile">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="150" alt="Connect">
+  
+  <p>
+    <a href="https://www.linkedin.com/in/hilina-hussien-824462288/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:hellyhussein@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/hellyrj">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+  
+</div>
 
 ---
 
 ## 💭 **Developer Philosophy**
 
 <div align="center">
+  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Philosophy">
   
   > ### 📖 **"Learn Deeply, Build Boldly, Iterate Fearlessly"**
   
@@ -239,6 +264,8 @@ const currentLearning = {
   
   ### 🌙 **Thanks for visiting my digital space!**
   
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Thank You">
+  
   <p>
     <i>Feel free to explore my repositories and reach out if you'd like to collaborate!</i>
   </p>
@@ -246,14 +273,9 @@ const currentLearning = {
   <p>
     <img src="https://komarev.com/ghpvc/?username=hellyrj&color=blueviolet&style=flat-square" alt="Profile Views" />
     <a href="https://github.com/hellyrj?tab=followers">
-      <img src="https://img.shields.io/github/followers/hellyrj?color=blueviolet&label=Followers&style=flat-square" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/hellyrj?color=blueviolet&label=Followers&style=flat-square" alt="GitHub Followers">
     </a>
-  </p>
-  
-  <p>
-    <sub><i>Last updated: {{date}}</i></sub>
   </p>
   
 </div>
 ```
-
