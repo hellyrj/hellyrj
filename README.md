@@ -19,20 +19,7 @@
   ### 🎓 Software Engineering Student | 💻 Full-Stack Developer
   ### 🔭 Exploring: AI • Cybersecurity • Robotics
   
-  <p>
-    <a href="https://github.com/hellyrj?tab=repositories">
-      <img src="https://img.shields.io/badge/Projects-15+-blue?style=flat-square" alt="Projects">
-    </a>
-    <a href="https://github.com/hellyrj?tab=repositories&language=javascript">
-      <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript" alt="JavaScript">
-    </a>
-    <a href="https://github.com/hellyrj?tab=repositories&language=python">
-      <img src="https://img.shields.io/badge/Python-Advanced-blue?style=flat-square&logo=python" alt="Python">
-    </a>
-    <a href="https://github.com/hellyrj?tab=repositories&language=typescript">
-      <img src="https://img.shields.io/badge/Node.js-Pro-green?style=flat-square&logo=node.js" alt="Node.js">
-    </a>
-  </p>
+
   
   *"Crafting elegant solutions to complex problems, one line at a time"*
 </div>
