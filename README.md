@@ -1,7 +1,7 @@
 
 <!-- Animated typing intro with more dynamic styling -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines= Hi+there+%F0%9F%91%8B+I'm+Helly; 3rd+Year+Software+Engineering+Student; Full-Stack+Developer+%7C+Tech+Explorer;Building+Today+%F0%9F%9A%80+Innovating+Tomorrow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Helly;3rd+Year+Software+Engineering+Student;Full-Stack+Developer+%7C+Tech+Explorer;Building+Today+%F0%9F%9A%80+Innovating+Tomorrow" />
 </p>
 
 ---
