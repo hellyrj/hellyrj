@@ -1,259 +1,62 @@
+# 👋 Hi, I'm Helly
 
-<!-- Animated typing intro with more dynamic styling -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Helly;3rd+Year+Software+Engineering+Student;Full-Stack+Developer+%7C+Tech+Explorer;Building+Today+%F0%9F%9A%80+Innovating+Tomorrow" />
-</p>
+**3rd Year Software Engineering Student | Full-Stack Developer**
 
----
-
-<!-- Animated coding gif banner -->
-<div align="center">
-    <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="450" alt="Girl Coding">
-</div>
-
-</div>
-
-<!-- Profile summary with badges -->
-<div align="center">
-  
-  ### 🎓 Software Engineering Student | 💻 Full-Stack Developer
-  ### 🔭 Exploring: AI • Cybersecurity • Robotics
-  
-
-  
-  *"Crafting elegant solutions to complex problems, one line at a time"*
-</div>
+> *Building solutions one line at a time*
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## 💻 Tech Stack
 
-### 📱 **Frontend Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" title="HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap" />
-</p>
+### Frontend
+HTML · CSS · JavaScript · React · Tailwind · Bootstrap
 
-### ⚙️ **Backend & APIs**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" title="Node.js, Express, Python, Flask, FastAPI" />
-</p>
+### Backend
+Node.js · Express · Python · Flask · FastAPI
 
-### 🗄️ **Databases & Storage**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" title="MongoDB, PostgreSQL, MySQL, SQLite, Redis" />
-</p>
+### Databases
+MongoDB · PostgreSQL · MySQL · SQLite
 
-### 🔧 **Dev Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,nginx,linux" title="Git, GitHub, VS Code, Postman, Docker, AWS, Nginx, Linux" />
-</p>
+### Tools
+Git · GitHub · VS Code · Docker · AWS · Linux
 
 ---
 
-## 🚀 **Featured Projects**
+## 📌 Featured Projects
 
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="300" alt="Project Development">
+### [CozyReads Bookstore](https://github.com/hellyrj/bookstore)
+Full-stack online bookstore with admin dashboard  
+**Tech:** Node.js, Express, PostgreSQL, JavaScript  
+**Status:** ✅ Live
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[CozyReads Bookstore](https://github.com/hellyrj/bookstore)** | Full-stack online bookstore with admin dashboard | Node.js, Express, PostgreSQL, JavaScript | ✅ Live |
-| **Project 2** | Coming soon... | React, Python, MongoDB | 🔄 In Progress |
-| **Project 3** | Coming soon... | AI/ML Integration | ⏳ Planned |
-
-</div>
+*More projects coming soon...*
 
 ---
 
-## 🌱 **Learning Journey**
+## 📚 Currently Learning
 
-### 🎯 **Current Focus (2024)**
-```yaml
-Full Stack Mastery:
-  - Advanced JavaScript & TypeScript
-  - System Design Patterns
-  - Microservices Architecture
-  - API Security & Optimization
-  
-Database Expertise:
-  - Query Optimization
-  - Database Scaling
-  - Data Modeling
-  - Real-time Databases
-```
-
-### 🔮 **Future Exploration Path**
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/l44QzsOLXxcrigdgI/giphy.gif" width="200" alt="Future Tech">
-  
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
-        <br>
-        <strong>AI/ML</strong>
-        <br>
-        <small>Neural Networks • NLP • Computer Vision</small>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-        <br>
-        <strong>Cybersecurity</strong>
-        <br>
-        <small>Ethical Hacking • Network Security • Cryptography</small>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" />
-        <br>
-        <strong>Robotics</strong>
-        <br>
-        <small>Embedded Systems • IoT • Automation</small>
-      </td>
-    </tr>
-  </table>
-</div>
+- **Languages:** TypeScript, Go
+- **Frameworks:** Next.js, Django
+- **Concepts:** System Design, APIs, Microservices
+- **Future Interests:** AI/ML, Cybersecurity, Robotics
 
 ---
 
+## 📫 Let's Connect
 
-## 🎯 **Coding Activity**
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellyrj&theme=tokyonight" alt="Activity Graph" />
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/hellyrj/hellyrj/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hilina-hussien-824462288/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:hellyhussein@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/hellyrj)
 
 ---
 
-## 🏆 **Achievements**
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hellyrj&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-  <br>
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" alt="Trophy">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellyrj&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyrj&layout=compact&theme=tokyonight)
 
 ---
 
-## 📚 **Currently Learning**
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Learning">
-  
-```javascript
-const currentLearning = {
-  languages: ['TypeScript', 'Go', 'Rust'],
-  frameworks: ['Next.js', 'Django', 'Spring Boot'],
-  databases: ['Neo4j', 'Cassandra', 'Elasticsearch'],
-  devOps: ['Kubernetes', 'Terraform', 'CI/CD Pipelines'],
-  concepts: ['Design Patterns', 'System Architecture', 'Cloud Native']
-};
-```
-
-</div>
-
----
-
-## ✍️ **Tech Blog & Writing**
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/j3gKR3BQHZPvZfhpQk/giphy.gif" width="150" alt="Writing">
-  <br>
-  <em>Coming soon: Technical articles on full-stack development, system design, and emerging tech.</em>
-</div>
-
----
-
-## 🤝 **Let's Connect!**
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="150" alt="Connect">
-  
-  <p>
-    <a href="https://www.linkedin.com/in/hilina-hussien-824462288/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:hellyhussein@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://github.com/hellyrj">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
-  
-</div>
-
----
-
-## 💭 **Developer Philosophy**
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Philosophy">
-  
-  > ### 📖 **"Learn Deeply, Build Boldly, Iterate Fearlessly"**
-  
-  <table>
-    <tr>
-      <td align="center">
-        <strong>🚀 Ship Often</strong><br>
-        <em>Progress > Perfection</em>
-      </td>
-      <td align="center">
-        <strong>🧠 Understand First</strong><br>
-        <em>Why > How</em>
-      </td>
-      <td align="center">
-        <strong>🔄 Embrace Failure</strong><br>
-        <em>Bugs = Learning Opportunities</em>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quotes" />
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🌙 **Thanks for visiting my digital space!**
-  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Thank You">
-  
-  <p>
-    <i>Feel free to explore my repositories and reach out if you'd like to collaborate!</i>
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=hellyrj&color=blueviolet&style=flat-square" alt="Profile Views" />
-    <a href="https://github.com/hellyrj?tab=followers">
-      <img src="https://img.shields.io/github/followers/hellyrj?color=blueviolet&label=Followers&style=flat-square" alt="GitHub Followers">
-    </a>
-  </p>
-  
-</div>
-```
+> *"Learn deeply, build boldly"*  
+> Thanks for visiting! Feel free to explore my repositories.
