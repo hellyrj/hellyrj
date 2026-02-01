@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'm Helly  
+# 👩‍💻 Hi, I'm Hilina
 **Software Engineering Student · Full-Stack Developer**
 
 <p align="center">
