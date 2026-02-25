@@ -64,19 +64,6 @@ A full-stack online bookstore platform with admin dashboard, user authentication
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Helly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellyrj&show_icons=true&theme=dracula&hide_border=true&bg_color=45,ffafcc,bde0fe&title_color=ff006e&icon_color=ff006e&text_color=ffffff)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyrj&layout=compact&theme=dracula&hide_border=true&bg_color=45,ffafcc,bde0fe&title_color=ff006e&text_color=ffffff)
-
-</div>
-
----
 
 ## 💌 Let's Connect!
 
