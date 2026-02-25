@@ -48,9 +48,6 @@ A full-stack online bookstore platform with admin dashboard, user authentication
 **Tech Stack:** Node.js · Express · PostgreSQL · JavaScript · Bootstrap  
 **Status:** ✅ **Live & Deployed**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Sparkles">
-</p>
 
 ---
 
